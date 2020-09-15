@@ -9,4 +9,4 @@ For more info, please visit the following links:
 ## Material
 
 ### Chapter 2
-[Tensorflow - Data Manipulation] (https://github.blog/2013-01-31-relative-links-in-markup-files/)
+[Tensorflow - Data Manipulation](chapter_2/lesson_2_tensorflow_2_1.ipynb)
