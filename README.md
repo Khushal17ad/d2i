@@ -8,4 +8,5 @@ For more info, please visit the following links:
 
 ## Material
 
-https://github.com/Khushal17ad/d2i/blob/master/Chapter%202/lesson_2_tensorflow_2_1.ipynb
+### Chapter 2
+* [Tensorflow - Data Manipulation] https://github.com/Khushal17ad/d2i/blob/master/Chapter%202/lesson_2_tensorflow_2_1.ipynb
