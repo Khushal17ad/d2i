@@ -10,3 +10,4 @@ For more info, please visit the following links:
 
 ### Chapter 2
 * [Tensorflow & PyTorch - Data Manipulation](chapter_2/lesson_2_tensorflow_2_1.ipynb)
+* [Data Preprocessing](chapter_2/lesson_2_2.ipynb)
