@@ -14,4 +14,5 @@ For more info, please visit the following links:
 * [Linear Algebra](chapter_2/lesson_2_3.ipynb)
 * [Calculus](chapter_2/lesson_2_4.ipynb)
 * [Automatic Differentiation](chapter_2/lesson_2_5.ipynb)
+* [Probability](chapter_2/lesson_2_6.ipynb)
 
