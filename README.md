@@ -8,10 +8,14 @@ For more info, please visit the following links:
 
 ## Material
 
-### Chapter 2
+### Chapter 2 - Preeliminaries
 * [Tensorflow & PyTorch - Data Manipulation](chapter_2/lesson_2_tensorflow_2_1.ipynb)
 * [Data Preprocessing](chapter_2/lesson_2_2.ipynb)
 * [Linear Algebra](chapter_2/lesson_2_3.ipynb)
 * [Calculus](chapter_2/lesson_2_4.ipynb)
 * [Automatic Differentiation](chapter_2/lesson_2_5.ipynb)
 * [Probability](chapter_2/lesson_2_6.ipynb)
+
+
+### Chapter 3 - Linear Neural Networks
+* [Linear Regression](chapter_3/lesson_3_1.ipynb)
