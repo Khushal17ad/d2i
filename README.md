@@ -20,3 +20,4 @@ For more info, please visit the following links:
 * [Linear Regression](chapter_3/chapter_3_1.ipynb)
 * [Linear Regression Implementation from Scratch](chapter_3/chapter_3_2.ipynb)
 * [Concise Implementation of Linear Regression](chapter_3/chapter_3_3.ipynb)
+* [The Image Classification Dataset](chapter_3/chapter_3_5.ipynb)
