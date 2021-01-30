@@ -4,6 +4,7 @@ For more info, please visit the following links:
 * https://github.com/d2l-ai/d2l-en
 * https://d2l.ai/index.html
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Khushal17ad/d2i/HEAD)
 
 
 ## Material
